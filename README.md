@@ -2,7 +2,7 @@ sudo apt update
 sudo apt install python3-pip
 pip3 install requests
 
-git clone 
+git clone https://github.com/KSMix/IPGeo.git
 
 cd IPGeo
 
