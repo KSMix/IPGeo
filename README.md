@@ -10,13 +10,20 @@ pip3 install requests
 
 git clone https://github.com/KSMix/IPGeo.git
 
+
 cd IPGeo
 
+
 chmod +x ip_geolocator.py
+
+
+pip3 install -r requirements.txt
+
 
 python3 ip_geolocator.py (IP Target)
 or
 ./ip_geolocator.py (IP Target)
+
 
 #EnjoyKrub :)
 
